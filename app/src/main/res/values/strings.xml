@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Take Picture</string>
+    <string name="fotografia_de_perfil">Fotografia de perfil</string>
+    <string name="tome_su_mejor_foto">Tome su mejor foto</string>
+    <string name="tomar_foto">Tomar Foto</string>
+    <string name="fotografia_mejor_posible">Tome una foto con su camara o seleccione una desde su galeria!</string>
+    <string name="abrir_galeria">Abrir Galeria</string>
+</resources>

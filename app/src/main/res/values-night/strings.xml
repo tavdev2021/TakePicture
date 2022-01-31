@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="fotografia_de_perfil">Fotografia de perfil</string>
+    <string name="tomar_foto">Tomar Foto</string>
+    <string name="fotografia_mejor_posible">Tome una foto con su camara o seleccione una desde su galeria!</string>
+    <string name="abrir_galeria">Abrir Galeria</string>
+</resources>
